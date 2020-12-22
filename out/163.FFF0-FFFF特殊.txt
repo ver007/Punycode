@@ -1,0 +1,15 @@
+[163.FFF0-FFFF 特殊]-\ufff0-￰
+[163.FFF0-FFFF 特殊]-\ufff1-￱
+[163.FFF0-FFFF 特殊]-\ufff2-￲
+[163.FFF0-FFFF 特殊]-\ufff3-￳
+[163.FFF0-FFFF 特殊]-\ufff4-￴
+[163.FFF0-FFFF 特殊]-\ufff5-￵
+[163.FFF0-FFFF 特殊]-\ufff6-￶
+[163.FFF0-FFFF 特殊]-\ufff7-￷
+[163.FFF0-FFFF 特殊]-\ufff8-￸
+[163.FFF0-FFFF 特殊]-\ufff9-￹
+[163.FFF0-FFFF 特殊]-\ufffa-￺
+[163.FFF0-FFFF 特殊]-\ufffb-￻
+[163.FFF0-FFFF 特殊]-\ufffc-￼
+[163.FFF0-FFFF 特殊]-\ufffd-�
+[163.FFF0-FFFF 特殊]-\ufffe-￾

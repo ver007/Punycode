@@ -1,0 +1,15 @@
+[247.13430-1343F Egyptian Hieroglyph Format Controls]-\u13430-ፃ0
+[247.13430-1343F Egyptian Hieroglyph Format Controls]-\u13431-ፃ1
+[247.13430-1343F Egyptian Hieroglyph Format Controls]-\u13432-ፃ2
+[247.13430-1343F Egyptian Hieroglyph Format Controls]-\u13433-ፃ3
+[247.13430-1343F Egyptian Hieroglyph Format Controls]-\u13434-ፃ4
+[247.13430-1343F Egyptian Hieroglyph Format Controls]-\u13435-ፃ5
+[247.13430-1343F Egyptian Hieroglyph Format Controls]-\u13436-ፃ6
+[247.13430-1343F Egyptian Hieroglyph Format Controls]-\u13437-ፃ7
+[247.13430-1343F Egyptian Hieroglyph Format Controls]-\u13438-ፃ8
+[247.13430-1343F Egyptian Hieroglyph Format Controls]-\u13439-ፃ9
+[247.13430-1343F Egyptian Hieroglyph Format Controls]-\u1343a-ፃa
+[247.13430-1343F Egyptian Hieroglyph Format Controls]-\u1343b-ፃb
+[247.13430-1343F Egyptian Hieroglyph Format Controls]-\u1343c-ፃc
+[247.13430-1343F Egyptian Hieroglyph Format Controls]-\u1343d-ፃd
+[247.13430-1343F Egyptian Hieroglyph Format Controls]-\u1343e-ፃe

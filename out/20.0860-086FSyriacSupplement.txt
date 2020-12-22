@@ -1,0 +1,15 @@
+[20.0860-086F Syriac Supplement]-\u0860-ࡠ
+[20.0860-086F Syriac Supplement]-\u0861-ࡡ
+[20.0860-086F Syriac Supplement]-\u0862-ࡢ
+[20.0860-086F Syriac Supplement]-\u0863-ࡣ
+[20.0860-086F Syriac Supplement]-\u0864-ࡤ
+[20.0860-086F Syriac Supplement]-\u0865-ࡥ
+[20.0860-086F Syriac Supplement]-\u0866-ࡦ
+[20.0860-086F Syriac Supplement]-\u0867-ࡧ
+[20.0860-086F Syriac Supplement]-\u0868-ࡨ
+[20.0860-086F Syriac Supplement]-\u0869-ࡩ
+[20.0860-086F Syriac Supplement]-\u086a-ࡪ
+[20.0860-086F Syriac Supplement]-\u086b-࡫
+[20.0860-086F Syriac Supplement]-\u086c-࡬
+[20.0860-086F Syriac Supplement]-\u086d-࡭
+[20.0860-086F Syriac Supplement]-\u086e-࡮
