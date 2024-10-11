@@ -28,7 +28,7 @@ Punycode（译为：域名代码）是一种表示Unicode码和ASCII码的有限
 
 ![img.png](image/img.png)
 
-
+python3 https://github.com/jiangph1001/Punycode
 
 ### 参考链接
 
